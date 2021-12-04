@@ -1,0 +1,7 @@
+#ignore vs generated
+.vs/
+Debug/
+x64/
+HH_COMPLETE/temp/
+HH_COMPLETE/Debug/
+HH_COMPLETE/x64/
